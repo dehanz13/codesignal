@@ -52,4 +52,4 @@ Solutions to CodeSignal problems for my notes.
 [databases]: https://github.com/dehanz13/codesignal/tree/master/arcade/databases
 [python]: https://github.com/dehanz13/codesignal/tree/master/arcade/python
 [graphs]: https://github.com/dehanz13/codesignal/tree/master/arcade/graphs
-[dropbox]: https://github.com/dehanz13/codesignal/tree/master/company-challenges/dropbox
+[dropbox]: https://github.com/dehanz13/codesignal/tree/master/company-challenges/DropBox
