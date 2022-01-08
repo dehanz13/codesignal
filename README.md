@@ -40,10 +40,6 @@ Solutions to CodeSignal problems for my notes.
 ## Arcade
 
 1. [Intro]
-2. [The Core]
-3. [Databases]
-4. [Python]
-5. [Graphs]
 
 ## Company Challenges
 
