@@ -1,4 +1,4 @@
-### Text Editor
+# Text Editor
 
 ## Operations:
 
