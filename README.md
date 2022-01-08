@@ -37,5 +37,23 @@ Solutions to CodeSignal problems for my notes.
 
 1. Counting
 
+## Arcade
+
+1. [Intro]
+2. [The Core]
+3. [Databases]
+4. [Python]
+5. [Graphs]
+
+## Company Challenges
+
+1. [DropBox]
+
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
 [arrays]: https://github.com/dehanz13/codesignal/tree/master/arrays
+[intro]: https://github.com/dehanz13/codesignal/tree/master/arcade/intro
+[the core]: https://github.com/dehanz13/codesignal/tree/master/arcade/the-core
+[databases]: https://github.com/dehanz13/codesignal/tree/master/arcade/databases
+[python]: https://github.com/dehanz13/codesignal/tree/master/arcade/python
+[graphs]: https://github.com/dehanz13/codesignal/tree/master/arcade/graphs
+[dropbox]: https://github.com/dehanz13/codesignal/tree/master/company-challenges/dropbox
